@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Action Figure ID | AI Character Recognition Application</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet" />
+
+        <link rel="stylesheet" href="css/reset.css" />
+        <link rel="stylesheet" href="css/theme.css" />
+        <link rel="stylesheet" href="css/styles.css" />
+
+        <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js" defer></script>
+        <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js" defer></script>
+        <script src="js/main.js" defer></script>
+    </head>
+    <body class="container" onload="init()">
+        <main class="content-wrapper">
+            <section class="input-wrapper">
+                <div id="webcam-container"></div>
+                <div id="label-container"></div>
+            </section>
+
+            <section class="window-wrapper">
+                <h1 class="title title-small">Action Figure Vision</h1>
+                <h2 class="quote"></h2>
+            </section>
+        </main>
+    </body>
+</html>

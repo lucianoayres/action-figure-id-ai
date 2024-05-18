@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #6fc0ff;
+    --secondary-color: #fff8e1;
+    --tertiary-color: #ffcdd2;
+    --quaternary-color: #ffcc80;
+    --background-color: #e0e0e0;
+    --window-bg-color: rgb(184, 184, 184);
+    --border-color: white;
+    --text-color: #fff;
+    --shadow-color: rgba(0, 0, 0, 0.5);
+    --gradient-colors: #ff0000, #ffa500, #ffff00, #008000, #0000ff, #4b0082, #ee82ee;
+    --font-family-title: "Bangers", system-ui;
+    --font-family-quote: "Bangers", system-ui;
+}

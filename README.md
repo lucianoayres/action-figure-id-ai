@@ -2,6 +2,8 @@
 
 This project utilizes Machine Learning and AI techniques for real-time character recognition through webcam input. By leveraging the Teachable Machine platform, this application can identify various characters and trigger actions based on the recognized character.
 
+![Action Figure ID screenshot](https://github.com/lucianoayres/action-figure-id-ai/assets/20209393/001dd1d5-f14d-4c7c-89df-1398547aeab1)
+
 ## Overview
 
 The application is built using JavaScript and integrates with the Teachable Machine model for image recognition. It uses a webcam feed to capture images, which are then processed by the machine learning model to predict the character present in the frame. Upon recognition, specific actions are triggered corresponding to the identified character.

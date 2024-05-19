@@ -1,6 +1,6 @@
 # Action Figure ID: AI Character Recognition Application
 
-This project utilizes Machine Learning and AI techniques for real-time character recognition through webcam input. By leveraging the Teachable Machine platform, this application can identify various characters and trigger actions based on the recognized character.
+This project employs deep learning and AI techniques for real-time character recognition through webcam input. By leveraging the Teachable Machine platform, the application can identify various characters and trigger actions based on the recognized characters.
 
 ![Action Figure ID screenshot](https://github.com/lucianoayres/action-figure-id-ai/assets/20209393/001dd1d5-f14d-4c7c-89df-1398547aeab1)
 
